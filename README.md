@@ -21,6 +21,8 @@ _Github: MatthewBott_
 _CPP Email: mabott@cpp.edu_ 
 * worked on the MaxHeap file
 
+## Extras
+* Added a Java interface
 
 ## Video Link
 https://youtu.be/PnrQja4QEzM
