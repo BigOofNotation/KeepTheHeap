@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Arrays;
 
-public class MaxHeapOperations
+public class MaxHeapOperations implement MaxHeapInterface
 {
     private int[] heap;
     private int size;
