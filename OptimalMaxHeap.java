@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Arrays;
 
-public class OptimalMaxHeap {
+public class OptimalMaxHeap implement MaxHeapInterface{
 
     private int[] heap;
     private int size;
