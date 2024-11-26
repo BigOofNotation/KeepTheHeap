@@ -17,6 +17,7 @@ _CPP Email: josued@cpp.edu_
 **Matthew Bott**  
 _Github: MatthewBott_  
 _CPP Email: mabott@cpp.edu_ 
+* worked on the MaxHeap file
 
 
 ## Video Link
