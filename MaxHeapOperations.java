@@ -53,7 +53,7 @@ public class MaxHeapOperations implements MaxHeapInterface
         }
     }
 
-    private void swap(int i, int j) {
+    public void swap(int i, int j) {
         int temp = heap[i];
         heap[i] = heap[j];
         heap[j] = temp;

@@ -48,7 +48,7 @@ public class OptimalMaxHeap implements MaxHeapInterface{
     }
 
 
-    private void swap(int one, int two){
+    public void swap(int one, int two){
         int temp = heap[one];
         heap[one] = heap[two];
         heap[two] = temp;
